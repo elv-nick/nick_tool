@@ -1,0 +1,27 @@
+body {
+  background: white;
+}
+
+.demo-row {
+    display: flex;
+}
+
+.demo-video {
+    width: 100%;
+}
+
+/* button {
+  background-color: blue;
+} */
+
+.my-input{
+  width: 400%;
+}
+
+.spacing{
+  padding: 10px;
+}
+
+.hidden {
+  display: none;
+}

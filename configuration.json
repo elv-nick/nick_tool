@@ -1,0 +1,14 @@
+{
+  "configUrl": "http://main.localhost:8008/config",
+  "fabric": {
+    "hostname": "localhost",
+    "port": 8008,
+    "use_https": false
+  },
+  "ethereum": {
+    "hostname": "localhost",
+    "port": 7545,
+    "use_https": false
+  },
+  "space-id": "ispcNfCPB3L1ANSr1m7qgtS4P8SgNno"
+}
